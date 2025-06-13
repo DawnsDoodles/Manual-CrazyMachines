@@ -1,2 +1,7 @@
-# Manual-CrazyMachines
-An old school contraption building game 
+#  (AP Manual)
+[under construction]
+
+## What Are You Searching For?
+
+
+## Play Guide
